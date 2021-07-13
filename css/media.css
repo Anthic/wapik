@@ -1,0 +1,672 @@
+@media(min-width:1026px) and (max-width:1441px){
+    .image {
+        position: absolute;
+        width: 25%;
+        top: 163px;
+        left: 141px;
+        transform: translateX(-7px);
+        transform: translateY(-2px);
+      
+    }
+}
+@media(min-width:770px) and (max-width:1025px){
+    .image {
+        position: absolute;
+        width: 33%;
+        top: 260px;
+        left: 97px;
+        transform: translateX(-7px);
+        transform: translateY(-2px);
+    
+    }
+    .icon9 ul {
+        list-style: none;
+        display: flex;
+        justify-content: space-between;
+        width: 53%;
+        align-items: inherit;
+        margin: 0;
+        margin-left: 242px;
+        font-size: 29px;
+    }
+}
+@media(min-width:427px) and (max-width:769px){
+    .phone ul {
+        padding-left: 34px;
+        margin-right: 251px;
+    }
+    .welcome {
+        margin-top: 112px;
+    }
+    .navbar-nav {
+        text-align: center;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        margin-top: 10px;
+    }
+    .btn-get {
+        margin: 16px 5px;
+    }
+    .cons i {
+        font-size: 40px;
+    }
+    .cons h4 {
+        font-size: 21px;
+        margin: 7px 0px;
+    }
+    .cons {
+        margin: 30px 0;
+        padding: 12px 12px;
+    
+    }
+    .cons p {
+        font-size: 14px;
+    }
+    .cross ul li h4 {
+        font-size: 22px;
+    }
+    .our h1 {
+        font-size: 35px;
+
+    }
+    .image {
+        width: 42%;
+        top: 332px;
+        left: 42px;
+    }
+    .ready p {
+
+        font-size: 15px;
+    }
+    .non ul {
+        align-items: center;
+    }
+    .theme p {
+        font-size: 17px;
+    }
+    .theme h5 {
+        margin-top: 41px;
+        font-size: 16px;
+    }
+    .theme h6 {
+      font-size: 17px;
+    }
+    .image2 {
+        margin-left: 52px;
+        width: 64%;
+        margin-top: 69px;
+    }
+    .with h1 {
+        font-size: 30px;
+        color: #0f5f5c;
+    }
+    .with p {
+        width: 117%;
+        margin-bottom: 56px;
+        font-size: 15px;
+    }
+    .price ul li {
+        font-size: 19px;
+    }
+    .mnth span {
+        font-size: 22px;
+    }
+    .mnth h2 {
+        font-size: 76px;
+    }
+    .plan h6 {
+        font-size: 29px;
+    }
+    .btn-plan {
+        border-radius: 5px;
+        font-size: 16px;
+    }
+    .hello ul li p {
+
+        font-size: 15px;
+  
+    }
+    .hello ul li i {
+        font-size: 24px;
+    }
+    .now {
+        margin-top: 46px;
+    }
+    .now h3 {
+        font-size: 24px;
+     
+    }
+    .btn-free {
+
+        font-size: 16px;
+        padding: 11px 32px;
+    }
+    .then {
+        margin-top: 86px;
+    }
+    .com ul li {
+        font-size: 15px;
+        margin-inline: 4px;
+    }
+    .com ul li p {
+        font-size: 18px;
+    }
+    .pik h5 {
+        font-size: 26px;
+    }
+    .company ul {
+        padding-left: 0;
+    }
+    .company ul li h6 {
+        font-size: 22px;
+        margin-bottom: 14px;
+    }
+    .company ul li {
+        font-size: 18px;
+
+    }
+    .email h6 {
+        font-size: 24px;
+    }
+    .email p {
+        font-size: 17px;
+    }
+    .plan input {
+        font-size: 18px;
+        padding: 8px 6px;
+        width: 115%;
+    }
+    .icon9 ul {
+        width: 69%;
+        margin-left: 112px;
+        font-size: 29px;
+    }
+    .plan i {
+        font-size: 23px;
+        left: 145px;
+        top: 21px;
+    }
+}
+@media(min-width:377px) and (max-width:426px){
+    .icon9 ul {
+        width: 77%;
+        margin-left: 11px;
+        margin-top: 10px;
+    }
+    .navbar-brand {
+        margin-right: 0rem;
+    }
+    .phone ul {
+        padding-left: 58px;
+    }
+    .navbar-toggler {
+        margin-left: 291px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+ 
+        text-align: center;
+    }
+    .btn-get {
+        margin: 6px 0px;
+        margin-left: 110px;
+    }
+    .welcome {
+        margin-top: 74px;
+    }
+    .welcome h1 {
+        font-size: 35px;
+    }
+    .welcome p {
+        font-size: 17px;
+    }
+    .btn-learn {
+        font-size: 15px;
+    }
+    .our h1 {
+        font-size: 31px;
+    }
+    .our P {
+        font-size: 15px;
+    }
+    .cons p {
+        font-size: 16px;
+    }
+    .cons h4 {
+        font-size: 26px;
+        margin: 13px 0px;
+    }
+    .cross ul li h4 {
+        font-size: 21px;
+    }
+    .image img {
+        display: none;
+    }
+    .ready p {
+        font-size: 14px;
+    }
+    .non ul {
+        align-items: center;
+    }
+    .non ul li p {
+        font-size: 15px;
+    }
+    .ready {
+        margin-top: 52px;
+    }
+    .theme p {
+        font-size: 18px;
+     
+    }
+    .theme {
+        margin-top: 74px;
+    }
+    .theme h5 {
+        margin-top: 44px;
+        font-size: 16px;
+    }
+    .theme h6 {
+        font-size: 17px;
+    }
+    .image2 {
+        margin-left: 42px;
+        width: 72%;
+        margin-top: 58px;
+    }
+    .with p {
+        width: 94%;
+        font-size: 15px;
+        padding-bottom: 64px;
+    }
+    .with h1 {
+        font-size: 30px;
+        margin-bottom: 27px;
+    }
+    .high {
+
+     margin-bottom: 0px;
+    }
+    .mnth h2 {
+        font-size: 77px;
+    }
+    .plan h6 {
+        font-size: 29px;
+    }
+    .mnth span {
+        font-size: 22px;
+    }
+    .price ul li {
+        font-size: 19px;
+        margin-bottom: 10px;
+    }
+    .btn-plan {
+        font-size: 16px;
+ 
+    }
+    .hello ul li p {
+        font-size: 18px;
+    }
+    .now {
+        margin-top: 91px;
+    }
+    .now h3 {
+        font-size: 29px;
+        margin-bottom: 29px;
+    }
+    .then {
+        margin-top: 83px;
+        padding-bottom: 90px;
+    }
+    .btn-free {
+        font-size: 14px;
+        padding: 12px 31px;
+    }
+    .pik h5 {
+        font-size: 27px;
+    }
+    .com ul li p {
+        font-size: 18px;
+    }
+    .com ul li {
+        font-size: 17px;
+    }
+    .company ul {
+        padding-left: 0;
+    }
+    .company {
+        margin-top: 20px;
+    }
+    .company ul li {
+        font-size: 18px;
+    }
+    .email p {
+        font-size: 18px;
+    }
+    .email {
+        margin-top: 14px;
+    }
+    .rights {
+        text-align: center;
+    }
+}
+@media(min-width:322px) and (max-width:376px){
+    .icon9 ul {
+        width: 77%;
+        margin-left: 11px;
+        margin-top: 10px;
+    }
+    .navbar-brand {
+        margin-right: 0rem;
+    }
+    .phone ul {
+        padding-left: 34px;
+    }
+    .navbar-toggler {
+        margin-left: 245px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+ 
+        text-align: center;
+    }
+    .btn-get {
+        margin: 0px 0px;
+        margin-left: 88px;
+    }
+    .welcome {
+        margin-top: 74px;
+    }
+    .welcome h1 {
+        font-size: 35px;
+    }
+    .welcome p {
+        font-size: 17px;
+    }
+    .btn-learn {
+        font-size: 15px;
+    }
+    .our h1 {
+        font-size: 31px;
+    }
+    .our P {
+        font-size: 15px;
+    }
+    .cons p {
+        font-size: 16px;
+    }
+    .cons h4 {
+        font-size: 26px;
+        margin: 13px 0px;
+    }
+    .cross ul li h4 {
+        font-size: 21px;
+    }
+    .image img {
+        display: none;
+    }
+    .ready p {
+        font-size: 14px;
+    }
+    .non ul {
+        align-items: center;
+    }
+    .non ul li p {
+        font-size: 15px;
+    }
+    .ready {
+        margin-top: 52px;
+    }
+    .theme p {
+        font-size: 18px;
+     
+    }
+    .theme {
+        margin-top: 74px;
+    }
+    .theme h5 {
+        margin-top: 44px;
+        font-size: 16px;
+    }
+    .theme h6 {
+        font-size: 17px;
+    }
+    .image2 {
+        margin-left: 42px;
+        width: 72%;
+        margin-top: 30px;
+    }
+    .with p {
+        width: 94%;
+        font-size: 15px;
+        padding-bottom: 64px;
+    }
+    .with h1 {
+        font-size: 30px;
+        margin-bottom: 27px;
+    }
+    .high {
+
+     margin-bottom: 0px;
+    }
+    .mnth h2 {
+        font-size: 77px;
+    }
+    .plan h6 {
+        font-size: 29px;
+    }
+    .mnth span {
+        font-size: 22px;
+    }
+    .price ul li {
+        font-size: 19px;
+        margin-bottom: 10px;
+    }
+    .btn-plan {
+        font-size: 16px;
+ 
+    }
+    .hello ul li p {
+        font-size: 18px;
+    }
+    .now {
+        margin-top: 91px;
+    }
+    .now h3 {
+        font-size: 29px;
+        margin-bottom: 29px;
+    }
+    .then {
+        margin-top: 83px;
+        padding-bottom: 90px;
+    }
+    .btn-free {
+        font-size: 14px;
+        padding: 12px 31px;
+    }
+    .pik h5 {
+        font-size: 27px;
+    }
+    .com ul li p {
+        font-size: 18px;
+    }
+    .com ul li {
+        font-size: 17px;
+    }
+    .company ul {
+        padding-left: 0;
+    }
+    .company {
+        margin-top: 20px;
+    }
+    .company ul li {
+        font-size: 18px;
+    }
+    .email p {
+        font-size: 18px;
+    }
+    .email {
+        margin-top: 14px;
+    }
+    .rights {
+        text-align: center;
+    }
+}
+@media(min-width:0px) and (max-width:321px){
+    .icon9 ul {
+        width: 77%;
+        margin-left: 11px;
+        margin-top: 10px;
+    }
+    .navbar-brand {
+        margin-right: 0rem;
+    }
+    .phone ul {
+        padding-left: 13px;
+    }
+    .navbar-toggler {
+        margin-left: 196px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+ 
+        text-align: center;
+    }
+    .btn-get {
+     margin: 0px 0px;
+    margin-left: 58px;
+    }
+    .welcome {
+        margin-top: 74px;
+    }
+    .welcome h1 {
+        font-size: 35px;
+    }
+    .welcome p {
+        font-size: 17px;
+    }
+    .btn-learn {
+        font-size: 15px;
+    }
+    .our h1 {
+        font-size: 31px;
+    }
+    .our P {
+        font-size: 15px;
+    }
+    .cons p {
+        font-size: 16px;
+    }
+    .cons h4 {
+        font-size: 26px;
+        margin: 13px 0px;
+    }
+    .cross ul li h4 {
+        font-size: 21px;
+    }
+    .image img {
+        display: none;
+    }
+    .ready p {
+        font-size: 14px;
+    }
+    .non ul {
+        align-items: center;
+    }
+    .non ul li p {
+        font-size: 15px;
+    }
+    .ready {
+        margin-top: 52px;
+    }
+    .theme p {
+        font-size: 18px;
+     
+    }
+    .theme {
+        margin-top: 74px;
+    }
+    .theme h5 {
+        margin-top: 44px;
+        font-size: 16px;
+    }
+    .theme h6 {
+        font-size: 17px;
+    }
+    .image2 {
+        margin-left: 42px;
+        width: 72%;
+        margin-top: 30px;
+    }
+    .with p {
+        width: 94%;
+        font-size: 15px;
+        padding-bottom: 64px;
+    }
+    .with h1 {
+        font-size: 30px;
+        margin-bottom: 27px;
+    }
+    .high {
+
+     margin-bottom: 0px;
+    }
+    .mnth h2 {
+        font-size: 77px;
+    }
+    .plan h6 {
+        font-size: 29px;
+    }
+    .mnth span {
+        font-size: 22px;
+    }
+    .price ul li {
+        font-size: 19px;
+        margin-bottom: 10px;
+    }
+    .btn-plan {
+        font-size: 16px;
+ 
+    }
+    .hello ul li p {
+        font-size: 18px;
+    }
+    .now {
+        margin-top: 91px;
+    }
+    .now h3 {
+        font-size: 29px;
+        margin-bottom: 29px;
+    }
+    .then {
+        margin-top: 83px;
+        padding-bottom: 90px;
+    }
+    .btn-free {
+        font-size: 13px;
+        padding: 10px 31px;
+    }
+    .pik h5 {
+        font-size: 27px;
+    }
+    .com ul li p {
+        font-size: 18px;
+    }
+    .com ul li {
+        font-size: 17px;
+    }
+    .company ul {
+        padding-left: 0;
+    }
+    .company {
+        margin-top: 20px;
+    }
+    .company ul li {
+        font-size: 18px;
+    }
+    .email p {
+        font-size: 18px;
+    }
+    .email {
+        margin-top: 14px;
+    }
+    .rights {
+        text-align: center;
+    }
+}
